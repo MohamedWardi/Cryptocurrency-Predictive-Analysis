@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net" modified="2023-04-24T13:46:03.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="L5F4dj-wKR46QYqx_ilJ" version="21.2.1" type="github">
+  <diagram name="Page-1" id="ZTz36LxAwSWAAGCgFcuq">
+    <mxGraphModel dx="1193" dy="1283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="00OLLtrCDSOxwrmiy8pi-1" target="00OLLtrCDSOxwrmiy8pi-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="00OLLtrCDSOxwrmiy8pi-1" target="00OLLtrCDSOxwrmiy8pi-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="00OLLtrCDSOxwrmiy8pi-1" target="00OLLtrCDSOxwrmiy8pi-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-1" value="Cryptocurrency Predictive Analysis&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00OLLtrCDSOxwrmiy8pi-5" target="00OLLtrCDSOxwrmiy8pi-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-5" value="&lt;font color=&quot;#00cc00&quot;&gt;Cryptocurrencies&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="635" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-8" value="&lt;font color=&quot;#00cc00&quot;&gt;Data Science&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="635" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00OLLtrCDSOxwrmiy8pi-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-12" value="&lt;font color=&quot;#00cc00&quot;&gt;Machine Learning&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-16" value="Supervised Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="00OLLtrCDSOxwrmiy8pi-12" target="00OLLtrCDSOxwrmiy8pi-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="650" as="sourcePoint" />
+            <mxPoint x="320" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-24" value="Unsupervised&lt;br&gt;Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="00OLLtrCDSOxwrmiy8pi-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="480" as="sourcePoint" />
+            <mxPoint x="520" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-27" value="Reinforcement Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="00OLLtrCDSOxwrmiy8pi-5" target="00OLLtrCDSOxwrmiy8pi-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="715" as="sourcePoint" />
+            <mxPoint x="120" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-32" value="Blockchain Technology" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="635" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="00OLLtrCDSOxwrmiy8pi-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="640" as="sourcePoint" />
+            <mxPoint x="120" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-36" value="Crypto Trading Strategies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="565" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="00OLLtrCDSOxwrmiy8pi-37" value="Market Data Sources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="695" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
